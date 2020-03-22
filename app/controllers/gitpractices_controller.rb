@@ -1,0 +1,2 @@
+class GitpracticesController < ApplicationController
+end
